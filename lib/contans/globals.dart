@@ -1,6 +1,6 @@
  import '../Model/user_model.dart';
 
-String baseUrl = "http://192.168.1.164:85";
+String baseUrl = "yorum";
  String username = "Administrator";
  String password = "Mefapex123.";
  bool isLogin = false;
