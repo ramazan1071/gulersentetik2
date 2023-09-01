@@ -1,8 +1,8 @@
  import '../Model/user_model.dart';
 
 String baseUrl = "yorum";
- String username = "Administrator";
- String password = "Mefapex123.";
+ String username = "yorum";
+ String password = "yorum";
  bool isLogin = false;
  User? currentUser;
  double calculateTitlePadding(double screenWidth) {
