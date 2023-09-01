@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165869374608",
+    "project_id": "gulersentetik-7519a",
+    "storage_bucket": "gulersentetik-7519a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165869374608:android:8d8c00734f5421c821dc15",
+        "android_client_info": {
+          "package_name": "com.example.gulersentetik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165869374608-is4kcq7sod2t5qc7ksdeoir4dbc1u607.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8BgrXh1wzXIVxbj2vYEr_3Tyc51y0kzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165869374608-is4kcq7sod2t5qc7ksdeoir4dbc1u607.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
